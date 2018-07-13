@@ -1,4 +1,4 @@
-FROM node:alpine
+FROM node:8-alpine
 
 MAINTAINER Paul Pop <paulpop88@gmail.com>
 
