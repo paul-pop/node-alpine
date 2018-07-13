@@ -1,4 +1,4 @@
-FROM openjdk:jre-alpine
+FROM node:alpine
 
 MAINTAINER Paul Pop <paulpop88@gmail.com>
 
