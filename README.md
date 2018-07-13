@@ -1,5 +1,5 @@
 ![license](https://img.shields.io/github/license/paul-pop/node-alpine.svg)
-![GitHub issues](https://img.shields.io/github/issues/paul-pop/node-alping.svg)
+![GitHub issues](https://img.shields.io/github/issues/paul-pop/node-alpine.svg)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/paul-pop/node-alpine.svg)
 [![Docker Repository on Quay](https://quay.io/repository/paulpop/node-alpine/status "Docker Repository on Quay")](https://quay.io/repository/paulpop/node-alpine)
 
